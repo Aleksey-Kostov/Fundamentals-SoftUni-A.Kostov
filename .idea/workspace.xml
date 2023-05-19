@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/ lab_data_types_and_variables/next_happy_year_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/chars_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/integer_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/print_part_of_the_ascii_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/sum_of_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/triples_of_latin_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_data_types_and_variables/water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +57,8 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.next_happy_year_2">
-    <configuration name="centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.water_overflow">
+    <configuration name="elevator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ lab_data_types_and_variables/centuries_to_minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_data_types_and_variables/elevator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="next_happy_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_part_of_the_ascii_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ lab_data_types_and_variables/next_happy_year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_data_types_and_variables/print_part_of_the_ascii_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="next_happy_year_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_of_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ lab_data_types_and_variables/next_happy_year_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_data_types_and_variables/sum_of_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pounds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ lab_data_types_and_variables/pounds_to_dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_data_types_and_variables/triples_of_latin_letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="water_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ lab_data_types_and_variables/special_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_data_types_and_variables/water_overflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.next_happy_year_2" />
-        <item itemvalue="Python.next_happy_year" />
-        <item itemvalue="Python.special_numbers" />
-        <item itemvalue="Python.centuries_to_minutes" />
-        <item itemvalue="Python.pounds_to_dollars" />
+        <item itemvalue="Python.water_overflow" />
+        <item itemvalue="Python.triples_of_latin_letters" />
+        <item itemvalue="Python.print_part_of_the_ascii_table" />
+        <item itemvalue="Python.sum_of_chars" />
+        <item itemvalue="Python.elevator" />
       </list>
     </recent_temporary>
   </component>
@@ -224,8 +231,26 @@
       <option name="project" value="LOCAL" />
       <updated>1684410893063</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SoftUni Fundamentals task">
+      <created>1684477308586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684477308586</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SoftUni Fundamentals task" />
@@ -248,6 +273,16 @@
           <url>file://$PROJECT_DIR$/ lab_data_types_and_variables/next_happy_year.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ lab_data_types_and_variables/next_happy_year_2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise_data_types_and_variables/water_overflow.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
