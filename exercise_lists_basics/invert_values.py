@@ -1,21 +1,16 @@
-separated_list = []
 new_separated_list = []
 string = input()
-separated_list.append(string)
-new_string = ""
+data_list = string.split(" ")
 
-for num in range(len(string)):
-    current_string = string[num]
-    if current_string == "-":
-        new_string = string[num] + string[num + 1]
-        new_string = abs(int(new_string))
-        new_separated_list.append(new_string)
-    elif current_string == " " or string[num - 1] == "-":
-        continue
-    elif num % 2 == 0:
-        new_string = int(current_string)
-        new_string *= -1
-        new_separated_list.append(new_string)
-
+for num in range(len(data_list)):
+    current_number = int(data_list[num])
+    if current_number < 0:
+        current_number = abs(current_number)
+        new_separated_list.append(current_number)
+    elif current_number > 0:
+        current_number *= -1
+        new_separated_list.append(current_number)
+    else:
+        new_separated_list.append(current_number)
 
 print(new_separated_list)
