@@ -29,7 +29,6 @@ for event in events:
             total_coins -= event_value
             print(f"You bought {type_of_event}.")
         else:
-            print(f"Closed! Cannot afford {type_of_event}.")
             factory_is_open = False
             break
 
