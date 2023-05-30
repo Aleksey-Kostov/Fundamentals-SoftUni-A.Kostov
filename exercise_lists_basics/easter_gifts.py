@@ -14,8 +14,11 @@ while command != "No Money":
         list_gifts.clear()
     elif "Required" in list_gifts:
         index = int(list_gifts[2])
-        receive_the_gifts[index - 1] = list_gifts[1]
-        list_gifts.clear()
+        if 0 <= index <= (len(receive_the_gifts)) - 1:
+            receive_the_gifts[index] = list_gifts[1]
+            list_gifts.clear()
+        else:
+            continue
     elif "JustInCase" in list_gifts:
         receive_the_gifts[-1] = list_gifts[1]
         list_gifts.clear()
