@@ -1,13 +1,11 @@
-def num_in_range(new_number):
+def num_in_range(first_number, second_number):
+    new_n = range(ord(first_number) + 1, ord(second_number))
     new_list = []
-    result = ""
-    for numbers in new_number:
-        result += chr(numbers) + " "
-        new_list = [result]
+    for numbers in new_n:
+        new_list.append(chr(numbers))
     return new_list
 
 
 character_1 = input()
 character_2 = input()
-new_n = range(ord(character_1) + 1, ord(character_2))
-print(*num_in_range(new_n))
+print(" ".join(num_in_range(character_1, character_2)))
