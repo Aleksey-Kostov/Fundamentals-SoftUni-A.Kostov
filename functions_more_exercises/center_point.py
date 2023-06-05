@@ -1,4 +1,4 @@
-def closest_coordinates(coordinates: []):
+def closest_coordinates(coordinates):
     from math import floor
     sum_coordinates = []
     twice_sum = 0
