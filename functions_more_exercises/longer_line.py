@@ -9,19 +9,14 @@ def closest_coordinates(coordinates: []):
     real_coord_three = 0
     for digit in range(len(coordinates)):
         if digit == 0:
-            first_sum += (abs(coordinates[digit]) - abs(coordinates[digit + 2])) + \
-                         (abs(coordinates[digit + 1]) - abs(coordinates[digit + 3]))
+            first_sum = ((coordinates[digit + 2]) - (coordinates[digit]) ** 2) + \
+                        ((coordinates[digit + 3]) - (coordinates[digit + 1]) ** 2)
             sum_coordinates.append(first_sum)
         elif digit == 4:
-            second_sum += (abs(coordinates[digit]) - abs(coordinates[digit + 2])) + \
-                          (abs(coordinates[digit + 1]) - abs(coordinates[digit + 3]))
+            second_sum = ((coordinates[digit + 2]) - (coordinates[digit]) ** 2) + \
+                        ((coordinates[digit + 3]) - (coordinates[digit + 1]) ** 2)
             sum_coordinates.append(second_sum)
-        if first_sum == max(sum_coordinates) and digit == 0:
-            real_coord_one = coordinates[digit]
-            real_coord_two = coordinates[digit + 1]
-            real_coord_three = coordinates[digit + 2]
-            real_coord_four = coordinates[digit + 3]
-        elif second_sum == max(sum_coordinates) and digit == 4:
+        if first_sum == max(sum_coordinates) and digit == 0 or second_sum == max(sum_coordinates) and digit == 4:
             real_coord_one = coordinates[digit]
             real_coord_two = coordinates[digit + 1]
             real_coord_three = coordinates[digit + 2]
