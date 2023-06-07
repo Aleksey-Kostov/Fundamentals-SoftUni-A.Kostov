@@ -1,38 +1,34 @@
-def closest_coordinates(coordinates: []):
-    from math import floor
-    sum_coordinates = []
-    first_sum = 0
-    second_sum = 0
-    real_coord_one = 0
-    real_coord_two = 0
-    real_coord_four = 0
-    real_coord_three = 0
-    for digit in range(len(coordinates)):
-        if digit == 0:
-            first_sum = ((coordinates[digit + 2]) - (coordinates[digit]) ** 2) + \
-                        ((coordinates[digit + 3]) - (coordinates[digit + 1]) ** 2)
-            sum_coordinates.append(first_sum)
-        elif digit == 4:
-            second_sum = ((coordinates[digit + 2]) - (coordinates[digit]) ** 2) + \
-                        ((coordinates[digit + 3]) - (coordinates[digit + 1]) ** 2)
-            sum_coordinates.append(second_sum)
-        if first_sum == max(sum_coordinates) and digit == 0 or second_sum == max(sum_coordinates) and digit == 4:
-            real_coord_one = coordinates[digit]
-            real_coord_two = coordinates[digit + 1]
-            real_coord_three = coordinates[digit + 2]
-            real_coord_four = coordinates[digit + 3]
-    return f"{floor(real_coord_three), floor(real_coord_four)}" \
-           f"{floor(real_coord_one), floor(real_coord_two)}"
+from math import floor
 
 
-first_coordinates = float(input())
-second_coordinates = float(input())
-third_coordinates = float(input())
-fourth_coordinates = float(input())
-fifth_coordinates = float(input())
-sixth_coordinates = float(input())
-seventh_coordinates = float(input())
-eighth_coordinates = float(input())
-list_coordinates = [first_coordinates, second_coordinates, third_coordinates, fourth_coordinates,
-                    fifth_coordinates, sixth_coordinates, seventh_coordinates, eighth_coordinates]
-print(closest_coordinates(list_coordinates))
+def distance(_x1, _y1, _x2, _y2):
+    return (_x2 - _x1)**2 + (_y2 - _y1)**2
+
+
+x1 = float(input())
+y1 = float(input())
+x2 = float(input())
+y2 = float(input())
+x3 = float(input())
+y3 = float(input())
+x4 = float(input())
+y4 = float(input())
+
+x1y1 = distance(x1, y1, 0, 0)
+x2y2 = distance(x2, y2, 0, 0)
+x3y3 = distance(x3, y3, 0, 0)
+x4y4 = distance(x4, y4, 0, 0)
+
+line_1 = x1y1 + x2y2
+line_2 = x3y3 + x4y4
+
+if line_1 >= line_2:
+    if x1y1 <= x2y2:
+        print(f'({floor(x1)}, {floor(y1)})({floor(x2)}, {floor(y2)})')
+    else:
+        print(f'({floor(x2)}, {floor(y2)})({floor(x1)}, {floor(y1)})')
+if line_1 < line_2:
+    if x3y3 <= x4y4:
+        print(f'({floor(x3)}, {floor(y3)})({floor(x4)}, {floor(y4)})')
+    else:
+        print(f'({floor(x4)}, {floor(y4)})({floor(x3)}, {floor(y3)})')
