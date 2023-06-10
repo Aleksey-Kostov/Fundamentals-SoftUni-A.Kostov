@@ -15,4 +15,3 @@ def sorted_notes():
 
 
 print(sorted_notes())
-
