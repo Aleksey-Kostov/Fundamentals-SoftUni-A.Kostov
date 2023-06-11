@@ -19,5 +19,5 @@ def check_chairs(number_rooms):
 
 number_of_rooms = int(input())
 free_chairs, needed_chairs = check_chairs(number_of_rooms)
-if free_chairs > needed_chairs:
+if free_chairs >= needed_chairs:
     print(f"Game On, {free_chairs} free chairs left")
