@@ -1,5 +1,5 @@
 def separated_numbers(string_numbers):
-    positive_numbers = [number for number in string_numbers if int(number) > 0]
+    positive_numbers = [number for number in string_numbers if int(number) >= 0]
     negative_numbers = [number for number in string_numbers if int(number) < 0]
     even_numbers = [number for number in string_numbers if int(number) % 2 == 0]
     odd_numbers = [number for number in string_numbers if int(number) % 2 != 0]
