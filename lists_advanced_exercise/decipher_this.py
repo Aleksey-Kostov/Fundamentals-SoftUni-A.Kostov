@@ -1,16 +1,15 @@
 def recoding_messages(input_message: list):
-    list_string_digit = []
+    deciphered = []
     for message in input_message:
-        for digit in range(len(message)):
-            while message[digit].isdigit():
-                list_string_digit.append(message[digit])
-                message.pop(0)
-            number = int(" ".join(list_string_digit))
-            input_message.index(0, chr(number))
-
-    return input_message
+        ascii_char = [digit for digit in message if digit.isdigit()]
+        word_list = [digit for digit in message if digit not in ascii_char]
+        number = chr(int("".join(ascii_char)))
+        word_list[0], word_list[-1] = word_list[-1], word_list[0]
+        new_word = number + "".join(word_list)
+        deciphered.append(new_word)
+    return deciphered
 
 
 secret_messages = input().split()
-print(recoding_messages(secret_messages))
-
+new_secret_message = recoding_messages(secret_messages)
+print(" ".join(new_secret_message))
