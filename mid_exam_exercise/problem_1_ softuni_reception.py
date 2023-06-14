@@ -2,9 +2,9 @@ def time_needed(student_number, student_sum: int):
     from math import ceil
     needed_student_per_hour = student_sum
     total_needed_time = student_number / needed_student_per_hour
-    if total_needed_time >= 4 and total_needed_time // 3 != 0:
+    if total_needed_time >= 4 and total_needed_time % 3 != 0:
         total_needed_time += total_needed_time // 3
-    elif total_needed_time >= 4 and total_needed_time // 3 == 0:
+    elif total_needed_time >= 4 and total_needed_time % 3 == 0:
         total_needed_time += total_needed_time / 3 - 1
     return ceil(total_needed_time)
 
