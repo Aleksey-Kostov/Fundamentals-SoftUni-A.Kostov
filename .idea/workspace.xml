@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_1/01. SoftUni Reception_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_1/02. Array Modifier_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_1/03. Numbers_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_1/exam_numbers_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_1/problem_1_ softuni_reception_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/01. Counter-Strike_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/02. The Lift_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/02. Treasure Hunt_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/03. Moving Target_Problem Description(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/counter_strike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/moving_target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/the_lift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/treasure_hunt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_exercise/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_exercise/exam_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_exercise/exam_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_exercise_1/exam_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_exercise/problem _2_array_modifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_exercise_1/problem _2_array_modifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_exercise/problem_1_ softuni_reception.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_exercise_1/problem_1_ softuni_reception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +62,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.exam_numbers (1)">
     <configuration name="exam_numbers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
@@ -482,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686733772415</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="SoftUni Fundamentals task">
+      <created>1686745468371</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1686745468371</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,17 +629,17 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_exam_exercise/problem_1_ softuni_reception.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_exercise_1/problem_1_ softuni_reception.py</url>
           <line>1</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_exam_exercise/problem _2_array_modifier.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_exercise_1/problem _2_array_modifier.py</url>
           <line>5</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_exam_exercise/exam_numbers.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_exercise_1/exam_numbers.py</url>
           <line>1</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>

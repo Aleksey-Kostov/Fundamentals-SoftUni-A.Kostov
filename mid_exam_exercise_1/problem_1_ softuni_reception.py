@@ -15,3 +15,4 @@ third_employee_efficiency = int(input())
 students_count = int(input())
 sum_student = first_employee_efficiency + second_employee_efficiency + third_employee_efficiency
 print(f"Time needed: {time_needed(students_count, sum_student)}h.")
+
