@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task" />
+    <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
+      <change afterPath="$PROJECT_DIR$/mid_exam_exercise_2/black_flag .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +55,8 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.inventory">
-    <configuration name="bonus_scoring_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.black_flag  (1)">
+    <configuration name="black_flag  (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_exam_exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_exam_exercise_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_exercise_1/bonus_scoring_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_exercise_2/black_flag .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exam_numbers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="black_flag " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_exam_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_exam_exercise_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_exercise/exam_numbers.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\limp_\Documents\GitHub\Fundamentals-SoftUni-A.Kostov\mid_exam_exercise_2\black_flag .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.black_flag  (1)" />
+        <item itemvalue="Python.black_flag " />
         <item itemvalue="Python.inventory" />
         <item itemvalue="Python.mu_online" />
         <item itemvalue="Python.mu_online2" />
-        <item itemvalue="Python.bonus_scoring_system" />
-        <item itemvalue="Python.exam_numbers (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684304946201</updated>
-    </task>
-    <task id="LOCAL-00001" summary="SoftUni Fundamentals task">
-      <created>1684306824074</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1684306824074</updated>
     </task>
     <task id="LOCAL-00002" summary="SoftUni Fundamentals task">
       <created>1684331480279</created>
@@ -520,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686988353557</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="SoftUni Fundamentals task">
+      <created>1687011790182</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1687011790182</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,6 +682,11 @@
           <url>file://$PROJECT_DIR$/mid_exam_exercise_1/mu_online2.py</url>
           <line>10</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mid_exam_exercise_2/black_flag .py</url>
+          <line>7</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
