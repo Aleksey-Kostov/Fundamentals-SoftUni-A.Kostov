@@ -7,8 +7,6 @@ while command != "Craft!":
     if list_command[0] == "Collect":
         if list_command[1] not in collecting_items:
             collecting_items.append(list_command[1])
-        else:
-            continue
     elif list_command[0] == "Drop":
         if list_command[1] in collecting_items:
             collecting_items.remove(list_command[1])
