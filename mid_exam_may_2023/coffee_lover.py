@@ -13,7 +13,7 @@ for command in range(number_of_commands):
             for coffe in starting_list[:index]:
                 starting_list.remove(coffe)
         elif commands_list[1] == "last" and index in range(len(starting_list)):
-            for coffe in starting_list[-index:]:
+            for coffe in starting_list[-(index + 1):]:
                 starting_list.remove(coffe)
     elif commands_list[0] == "Prefer":
         index_coffe_1 = int(commands_list[1])
