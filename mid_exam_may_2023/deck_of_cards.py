@@ -32,4 +32,3 @@ for command in range(number_of_command):
             print("Index out of range")
 
 print(", ".join(list_of_cards))
-
