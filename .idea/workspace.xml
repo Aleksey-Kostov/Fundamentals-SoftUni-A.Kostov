@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/10. pokemon_don't_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more_exercises_data_types_and_variables/exchange_integers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.party_ (1)">
+  <component name="RunManager" selected="Python.exchange_integers">
     <configuration name="aaaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anonymous_threat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exchange_integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_advanced_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/more_exercises_data_types_and_variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_advanced_exercise/anonymous_threat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/more_exercises_data_types_and_variables/exchange_integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exchange_integers" />
         <item itemvalue="Python.party_ (1)" />
         <item itemvalue="Python.party_" />
         <item itemvalue="Python.grafiks" />
         <item itemvalue="Python.aaaa" />
-        <item itemvalue="Python.anonymous_threat" />
       </list>
     </recent_temporary>
   </component>
@@ -181,13 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684304946201</updated>
-    </task>
-    <task id="LOCAL-00009" summary="SoftUni Fundamentals task">
-      <created>1684677753830</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1684677753830</updated>
     </task>
     <task id="LOCAL-00010" summary="SoftUni Fundamentals task">
       <created>1684834438683</created>
@@ -525,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687772116329</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="SoftUni Fundamentals task">
+      <created>1687783203063</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1687783203063</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
