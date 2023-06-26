@@ -1,0 +1,42 @@
+body {
+    background-color: #EEE;
+    font-family: Arial;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.fancy-text {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p.fancy-text {
+    color: brown;
+}
+
+#specific-paragraph {
+    background-color: pink;
+}
+
+.main-navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main-navigation li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.main-navigation a {
+    text-decoration: none;
+    color: #111;
+    font-weight: bold;
+}
+
+.main-navigation li:hover {
+    text-decoration: underline;
+}
