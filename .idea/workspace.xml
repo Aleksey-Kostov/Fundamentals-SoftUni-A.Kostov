@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_6_2023___9_44__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_6_2023_г__9_44_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_6_2023___15_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_6_2023___15_02__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_file/fruits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_file/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,27 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684304946201</updated>
-    </task>
-    <task id="LOCAL-00002" summary="SoftUni Fundamentals task">
-      <created>1684331480279</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1684331480279</updated>
-    </task>
-    <task id="LOCAL-00003" summary="SoftUni Fundamentals task">
-      <created>1684392737611</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1684392737611</updated>
-    </task>
-    <task id="LOCAL-00004" summary="SoftUni Fundamentals task">
-      <created>1684393304284</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1684393304284</updated>
     </task>
     <task id="LOCAL-00005" summary="SoftUni Fundamentals task">
       <created>1684396489991</created>
@@ -527,7 +505,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687500946023</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="SoftUni Fundamentals task">
+      <created>1687764416888</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1687764416888</updated>
+    </task>
+    <task id="LOCAL-00052" summary="SoftUni Fundamentals task">
+      <created>1687764424890</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1687764424890</updated>
+    </task>
+    <task id="LOCAL-00053" summary="SoftUni Fundamentals task">
+      <created>1687764570106</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1687764570106</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
