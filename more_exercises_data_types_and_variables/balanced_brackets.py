@@ -1,25 +1,28 @@
 numbers_of_line = int(input())
 list_brackets_one = []
 full_list = []
-is_balanced = False
+is_balanced = True
+last_string = ""
+
 
 for num in range(numbers_of_line):
     string = input()
-    if string == "(" or string == ")":
-        full_list.append(string)
-
-for digit in range(0, len(full_list), 2):
-    if digit + 1 in range(len(full_list)):
-        if full_list[digit] != full_list[digit + 1]:
-            is_balanced = True
-        else:
-            is_balanced = False
-            break
+    full_list.append(string)
+for strings in range(len(full_list)):
+    if len(full_list) == 1:
+        is_balanced = True
+        break
+    elif full_list[-1] == "" and full_list[-2] == ")" or full_list[-1] == "(" or full_list[0] == "" \
+            and full_list[1] == ")" or full_list[0] == ")" or full_list.count("(") != full_list.count(")") or\
+            full_list[-2] == "(" and full_list[-1] == "":
+        is_balanced = False
+        break
+    elif full_list[strings] == "(" and full_list[strings + 1:] == "(" or full_list[strings] == ")" and\
+            full_list[strings + 1:] == ")":
+        is_balanced = False
+        break
     else:
-        if digit % 2 == 0:
-            is_balanced = False
-        else:
-            is_balanced = is_balanced
+        is_balanced = True
 
 
 if is_balanced:
