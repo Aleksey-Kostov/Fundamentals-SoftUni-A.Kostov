@@ -9,6 +9,6 @@ for i in range(0, len(products), 2):
     dictionary_product[key] = value
 for item in given_products:
     if item in dictionary_product:
-        print(f"We have {dictionary_product[item]} of {item} left.")
+        print(f"We have {dictionary_product[item]} of {item} left")
     else:
-        print(f"Sorry, we don't have {item}.")
+        print(f"Sorry, we don't have {item}")
