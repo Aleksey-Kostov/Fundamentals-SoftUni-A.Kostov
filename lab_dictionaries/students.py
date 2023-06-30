@@ -1,21 +1,21 @@
 student_dict = {}
 students_list = []
-new = {}
+course_student = ""
 
 while True:
     student = input()
-    if student in student_dict.values():
-        print("A")
+    course_student = student
     if ":" not in student:
         break
     new_students = student.split(":")
     students_list += new_students
-    for i in range(len(new_students)):
-        key = new_students[i]
-        value = new_students[i + 1]
-        student_dict[key] = value
-    for j in range(len(new_students)):
-        key_3 = new_students[j + 2]
-        value = student_dict
+    for i in range(0, len(new_students), 3):
+        name = new_students[i]
+        id_name = new_students[i + 1]
+        course = new_students[i + 2]
+        student_dict[name] = {course: id_name}
 
-print(student_dict)
+for name_student, course_id in student_dict.items():
+    for course_only, id_only in course_id.items():
+        if course_only.startswith(course_student[:4]):
+            print(f"{name_student} - {id_only}")
