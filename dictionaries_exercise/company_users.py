@@ -3,7 +3,7 @@ command = input().split(" -> ")
 while command[0] != "End":
     company, employee = command[0], command[1]
     if company not in companies.keys():
-        companies[company] =[]
+        companies[company] = []
     if employee not in companies[company]:
         companies[company].append(employee)
     command = input().split(" -> ")
