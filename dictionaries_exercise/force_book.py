@@ -14,7 +14,9 @@ while user_input != "Lumpawaroo":
         if side_user in users_dict.keys():
             if name_user not in users_dict[side_user]:
                 users_dict[side_user].append(name_user)
-                print(f"{name_user} joins the {side_user} side!")
+        elif side_user not in users_dict.keys():
+            users_dict[side_user] = [name_user]
+        print(f"{name_user} joins the {side_user} side!")
     elif "|" in user_input:
         current_user = user_input.split(" | ")
         side, name = current_user[0], current_user[1]
