@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/lab_text_processing/01. Reverse Strings_Условия.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_text_processing/reverse_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <recent name="C:\Users\Aleksey Kostov\PycharmProjects\Fundamentals-SoftUni-A.Kostov\new_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.repeat_strings">
+  <component name="RunManager" selected="Python.substring">
     <configuration name="company_users_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student_academy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionaries_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_text_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_exercise/student_academy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_text_processing/substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.substring" />
         <item itemvalue="Python.repeat_strings" />
         <item itemvalue="Python.reverse_strings" />
         <item itemvalue="Python.force_book" />
         <item itemvalue="Python.company_users_2" />
-        <item itemvalue="Python.student_academy" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +527,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
