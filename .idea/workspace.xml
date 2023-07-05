@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/lab_text_processing/text_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_text_processing/digits_letters_and_other.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +61,8 @@
       <recent name="C:\Users\Aleksey Kostov\PycharmProjects\Fundamentals-SoftUni-A.Kostov\new_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.text_filter">
-    <configuration name="force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.digits_letters_and_other">
+    <configuration name="digits_letters_and_other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionaries_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_text_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_exercise/force_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_text_processing/digits_letters_and_other.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.digits_letters_and_other" />
         <item itemvalue="Python.text_filter" />
         <item itemvalue="Python.substring" />
         <item itemvalue="Python.repeat_strings" />
         <item itemvalue="Python.reverse_strings" />
-        <item itemvalue="Python.force_book" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +529,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
