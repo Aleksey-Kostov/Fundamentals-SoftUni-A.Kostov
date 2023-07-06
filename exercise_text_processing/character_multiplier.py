@@ -26,4 +26,3 @@ elif len(sum_char_list1) < len(sum_char_list2):
 
 
 print(total_sum)
-
