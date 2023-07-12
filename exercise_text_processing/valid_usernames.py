@@ -16,4 +16,3 @@ for name in username:
     counter = 0
     len_name = False
     is_num = False
-
