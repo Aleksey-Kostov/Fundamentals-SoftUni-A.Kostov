@@ -22,18 +22,15 @@ def cut(text, index, length):
 
 
 def substitute(text, given_substring, substring_for_replace):
-    new_text = ""
     if given_substring in text:
-        for character in text:
-            if character == given_substring or given_substring == character + character:
-                new_text += substring_for_replace
-            else:
-                new_text += character
+        new_text = text.split(given_substring)
+        new_text = f"{substring_for_replace}".join(new_text)
         return new_text
-    return "Nothing to replace!"
+    else:
+        return "Nothing to replace!"
 
 
-while command != "Done":
+while command[0] != "Done":
     if command[0] == "TakeOdd":
         string = take_odd(string)
         print(string)
@@ -41,6 +38,12 @@ while command != "Done":
         string = cut(string, command[1], command[2])
         print(string)
     elif command[0] == "Substitute":
-        string = substitute(string, command[1], command[2])
-        print(string)
+        subs = substitute(string, command[1], command[2])
+        if subs != "Nothing to replace!":
+            string = subs
+            print(string)
+        else:
+            print(subs)
     command = input().split()
+
+print(f"Your password is: {string}")

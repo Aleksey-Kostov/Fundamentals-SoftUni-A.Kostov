@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_1/01. Password Reset_Problem Description(3).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_1/02. Fancy Barcodes_Problem Description(2).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_1/03. Heroes of Code and Logic VII_Problem Description(2).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_1/password_reset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_7_2023___20_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_7_2023___20_40__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_exam_exercise_1/password_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_exercise_1/password_reset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -534,7 +530,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -841,8 +837,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/final_exam_exercise_1/password_reset.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="130" />
+          <line>39</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final_exam_exercise_1/password_reset.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
