@@ -43,6 +43,3 @@ for key, value in heroes_dict.items():
         print(key)
         print(f"HP: {value[0]}")
         print(f"MP: {value[1]}")
-
-
-
