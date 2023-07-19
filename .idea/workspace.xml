@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_2/01. Activation Keys_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_2/02. Emoji Detector_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_2/03. P!rates_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_exam_exercise_2/activation_key_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_exam_exercise_2/activation_key_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_exercise_2/activation_key_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +530,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -860,8 +857,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/final_exam_exercise_2/activation_key_problem.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="137" />
+          <line>13</line>
+          <option name="timeStamp" value="139" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
