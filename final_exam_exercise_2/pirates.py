@@ -38,4 +38,3 @@ else:
 for cities, resource in target_dict.items():
     if cities:
         print(f"{cities} -> Population: {resource[0]} citizens, Gold: {resource[1]} kg")
-
