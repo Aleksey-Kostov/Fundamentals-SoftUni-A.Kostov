@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
+      <change afterPath="$PROJECT_DIR$/final_exam_exercise_2/pirates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_exam_exercise_2/emoji_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_exercise_2/emoji_detector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <recent name="C:\Users\Aleksey Kostov\PycharmProjects\Fundamentals-SoftUni-A.Kostov\new_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.emoji_detector">
+  <component name="RunManager" selected="Python.pirates">
     <configuration name="activation_key_problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pirates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_exam_exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_exam_exercise_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_exercise_1/password_reset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_exercise_2/pirates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pirates" />
         <item itemvalue="Python.emoji_detector" />
         <item itemvalue="Python.activation_key_problem" />
         <item itemvalue="Python.heroes_of_code_and_logic_VII" />
         <item itemvalue="Python.fancy_barcodes" />
-        <item itemvalue="Python.password_reset" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +530,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -864,6 +864,16 @@
           <url>file://$PROJECT_DIR$/final_exam_exercise_2/emoji_detector.py</url>
           <line>25</line>
           <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final_exam_exercise_2/pirates.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final_exam_exercise_2/pirates.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
