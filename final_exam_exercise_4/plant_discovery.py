@@ -1,7 +1,5 @@
 number = int(input())
 plant_dict = {}
-count_rating = 1
-count_rarity = 0
 
 for plants in range(number):
     current_plant = input().split("<->")
