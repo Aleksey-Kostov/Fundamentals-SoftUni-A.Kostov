@@ -35,6 +35,5 @@ for plant_name, items in plant_dict.items():
         average_rating = 0
     else:
         average_rating = sum(plant_dict[plant_name]["rating"]) / len(plant_dict[plant_name]["rating"])
-    current_plant_name = plant_dict[plant_name]
     rarity = int(plant_dict[plant_name]["rarity"])
     print(f"- {plant_name}; Rarity: {rarity}; Rating: {average_rating:.2f}")
