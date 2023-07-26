@@ -16,7 +16,8 @@ for match in matches:
     product = match.group(2)
     count = int(match.group(3))
     price_product = float(match.group(4))
-    valid_order_dict[match.group(1)] = {product: count * price_product}
+    if count > 0:
+        valid_order_dict[match.group(1)] = {product: count * price_product}
 
 for k, v in valid_order_dict.items():
     customer_name = k
