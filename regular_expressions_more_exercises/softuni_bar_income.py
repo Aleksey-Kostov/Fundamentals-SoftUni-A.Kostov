@@ -36,7 +36,7 @@ for k, v in valid_order_dict.items():
                 continue
             print(f"{customer_name}: {product} - {float(price):.2f}")
     else:
-        product = v[1]
+        product = v[0]
         price = v[1]
         total_price += float(price)
         print(f"{customer_name}: {product} - {float(price):.2f}")
