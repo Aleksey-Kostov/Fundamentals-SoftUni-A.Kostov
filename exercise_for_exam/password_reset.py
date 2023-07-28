@@ -8,7 +8,7 @@ def take_odd(current_string):
 
 def cut(current_string, current_command):
     index = int(current_command[1])
-    length = int(current_command[2])
+    length = int(current_command[1])
     start_index = index
     end_index = index + length
     current_string = current_string[:start_index] + current_string[end_index:]
