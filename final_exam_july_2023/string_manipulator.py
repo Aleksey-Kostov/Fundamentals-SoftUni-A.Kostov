@@ -27,12 +27,15 @@ while command[0] != "End":
     elif action == "FindIndex":
         char = command[1]
         index_char = 0
+        # index = string[::-1].index(char)   # variant 2
+        # new_index = (len(string) - 1) - index   # variant 2
         for i in range(len(string)):
             if string[i] == char:
                 current_index_char = i
                 if current_index_char > index_char:
                     index_char = current_index_char
         print(index_char)
+        # print(new_index)   # variant 2
     elif action == "Remove":
         start_index = int(command[1])
         count = int(command[2])
