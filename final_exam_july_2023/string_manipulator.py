@@ -43,4 +43,3 @@ while command[0] != "End":
         string = string[:start_index] + string[end_index:]
         print(string)
     command = input().split()
-
