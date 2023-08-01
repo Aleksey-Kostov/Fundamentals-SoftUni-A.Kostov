@@ -22,8 +22,8 @@ while command[0] != "End":
         else:
             print("False")
     elif action == "Lowercase":
-        # string = string.lower()
-        # print(string)
+        string = string.lower()
+        print(string)
     elif action == "FindIndex":
         char = command[1]
         index_char = 0
