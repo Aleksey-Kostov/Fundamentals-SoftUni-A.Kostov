@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_7_2023___17_49__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_7_2023_г__17_49_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_exam_july_2023/string_manipulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_exam_july_2023/string_manipulator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <recent name="C:\Users\Aleksey Kostov\PycharmProjects\Fundamentals-SoftUni-A.Kostov\new_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string_manipulator">
+  <component name="RunManager" selected="Python.match_phone_number">
     <configuration name="fancy_barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_for_exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_regular_expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_for_exam/password_reset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_regular_expressions/match_dates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expressions_more_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_regular_expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expressions_more_exercises/race.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_regular_expressions/match_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softuni_bar_income" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-SoftUni-A.Kostov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expressions_more_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_regular_expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expressions_more_exercises/softuni_bar_income.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_regular_expressions/match_phone_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.match_phone_number" />
+        <item itemvalue="Python.match_numbers" />
+        <item itemvalue="Python.match_dates" />
         <item itemvalue="Python.string_manipulator" />
         <item itemvalue="Python.fancy_barcodes" />
-        <item itemvalue="Python.password_reset" />
-        <item itemvalue="Python.softuni_bar_income" />
-        <item itemvalue="Python.race" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +533,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
