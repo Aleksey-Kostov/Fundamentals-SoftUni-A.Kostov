@@ -34,3 +34,4 @@ print("Heroes:")
 for key, value in hero_dict.items():
     hero_name = key
     print(f"== {hero_name}: {', '.join(value)}")
+
