@@ -29,7 +29,6 @@ while command[0] != "End":
         index_char = 0
         # index = string[::-1].index(char)   # variant 2
         # new_index = (len(string) - 1) - index   # variant 2
-
         for i in range(len(string)):
             if string[i] == char:
                 current_index_char = i
