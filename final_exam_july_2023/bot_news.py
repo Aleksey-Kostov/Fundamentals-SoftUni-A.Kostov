@@ -1,7 +1,7 @@
-def speak(str):
+def speak(string):
     from win32com.client import Dispatch
-    speak = Dispatch("SAPI.SpVoice")
-    speak.Speak(str)
+    speak_new = Dispatch("SAPI.SpVoice")
+    speak_new.Speak(string)
 
 
 if __name__ == '__main__':
