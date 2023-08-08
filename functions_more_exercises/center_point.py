@@ -22,3 +22,4 @@ third_coordinates = float(input())
 fourth_coordinates = float(input())
 list_coordinates = [first_coordinates, second_coordinates, third_coordinates, fourth_coordinates]
 print(closest_coordinates(list_coordinates))
+
