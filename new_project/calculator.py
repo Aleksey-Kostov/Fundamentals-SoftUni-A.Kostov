@@ -80,7 +80,7 @@ class CalculatorWidget(Widget):
     # Using '.' for floating numbers
     def dot(self):
         prev_number = self.ids.input_box.text
-        num_list = re.split("\+|\*|-|/|%", prev_number)
+        num_list = re.split(r"\+|\*|-|/|%", prev_number)
 
         if ('+' in prev_number
             or '-' in prev_number
