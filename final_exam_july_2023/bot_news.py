@@ -26,4 +26,3 @@ if __name__ == '__main__':
             speak('next news')
         else:
             speak('This was top 4 BBC news from SoftUni Fundamentals Team.See you Soon')
-
