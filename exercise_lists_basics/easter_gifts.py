@@ -26,4 +26,3 @@ while command != "No Money":
 while "None" in receive_the_gifts:
     receive_the_gifts.remove("None")
 print(*receive_the_gifts, sep=" ")
-
