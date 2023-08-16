@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf72f328-2d6a-48d1-a272-72a210b4735c" name="Changes" comment="SoftUni Fundamentals task">
-      <change afterPath="$PROJECT_DIR$/more_exercises_basic_syntax_conditional_statements_and_loops/wolf_in_sheep's_clothing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_exercises_basic_syntax_conditional_statements_and_loops/wolf_in_sheep's_clothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/more_exercises_basic_syntax_conditional_statements_and_loops/wolf_in_sheep's_clothing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +532,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687786649235</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -935,7 +934,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/more_exercises_basic_syntax_conditional_statements_and_loops/wolf_in_sheep's_clothing.py</url>
-          <line>4</line>
+          <line>6</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
       </breakpoints>
