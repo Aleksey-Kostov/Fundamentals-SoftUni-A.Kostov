@@ -13,7 +13,7 @@ for number in sequence_of_numbers:
 for i in range(len(string)):
     new_string.append(string[i])
 for j in index_list:
-    if j <= len(new_string):
+    if j < len(new_string):
         real_string = new_string.pop(j)
         total_string.append(real_string)
     else:
