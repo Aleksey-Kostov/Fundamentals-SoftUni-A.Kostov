@@ -15,3 +15,4 @@ if flag:
     print(f"Oi! Sheep number {number_of_sheep}! You are about to be eaten by a wolf!")
 else:
     print("Please go away and stop eating my sheep")
+
